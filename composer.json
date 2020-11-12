@@ -40,7 +40,7 @@
     ],
     "require": {
         "php": "^7.4.0",
-        "felixkiss/uniquewith-validator": "^3.4.0",
+        "rogeecn/uniquewith-validator": "^3.5.0",
         "illuminate/auth": "^8.0.0",
         "illuminate/bus": "^8.0.0",
         "illuminate/contracts": "^8.0.0",
